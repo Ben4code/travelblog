@@ -13,10 +13,6 @@ nav{
     align-items: center;
 }
 
-.nav__links{
-    margin-left: auto;
-}
-
 .nav__item--left{
     margin-right: auto;
 }
