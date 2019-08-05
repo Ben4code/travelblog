@@ -3,6 +3,7 @@ body{
   margin: 0 auto;
   padding: 0 10%;
   max-width: 1200px;
+  overflow-x: hidden;
 }
 
 h1{
